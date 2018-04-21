@@ -1,0 +1,105 @@
+
+#tip {
+    text-align: center;
+    font-size: 16px;
+}
+
+p{
+    width:480px;
+    margin:0 auto;
+    font-size:40px;
+    font-family:Arial;
+    font-weight:bold;
+    padding-top:15px;
+}
+
+#container {
+
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #b8af9e;
+    position: relative;
+}
+
+#start {
+    width: 500px;
+    height: 500px;
+    line-height: 500px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    background: #f2b179;
+    color: #FFFFFF;
+}
+
+#container div.block {
+    text-align: center;
+    float: left;
+    margin: 20px 0px 0px 20px;
+    width: 100px;
+    height: 40px;
+    padding: 30px 0;
+    font-size: 40px;
+    line-height: 40px;
+    border-radius: 5px;
+}
+
+#container div.block0 {
+    background: #ccc0b2;
+}
+
+#container div.block2 {
+    color: #7c736a;
+    background: #eee4da;
+}
+
+#container div.block4 {
+    color: #7c736a;
+    background: #ece0c8;
+}
+
+#container div.block8 {
+    color: #fff7eb;
+    background: #f2b179;
+}
+
+#container div.block16 {
+    color: #fff7eb;
+    background: #f59563;
+}
+
+#container div.block32 {
+    color: #fff7eb;
+    background: #f57c5f;
+}
+
+#container div.block64 {
+    color: #fff7eb;
+    background: #f65d3b;
+}
+
+#container div.block128 {
+    color: #fff7eb;
+    background: #edce71;
+}
+
+#container div.block256 {
+    color: #fff7eb;
+    background: #edcc61;
+}
+
+#container div.block512 {
+    color: #fff7eb;
+    background: #ecc850;
+}
+
+#container div.block1024 {
+    color: #fff7eb;
+    background: #edc53f;
+}
+
+#container div.block2048 {
+    color: #fff7eb;
+    background: #eec22e;
+}
